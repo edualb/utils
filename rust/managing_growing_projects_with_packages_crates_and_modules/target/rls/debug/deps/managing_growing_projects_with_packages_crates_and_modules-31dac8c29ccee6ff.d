@@ -1,0 +1,5 @@
+/home/eduab/Projects/edualb/utils/rust/managing_growing_projects_with_packages_crates_and_modules/target/rls/debug/deps/managing_growing_projects_with_packages_crates_and_modules-31dac8c29ccee6ff.rmeta: src/main.rs
+
+/home/eduab/Projects/edualb/utils/rust/managing_growing_projects_with_packages_crates_and_modules/target/rls/debug/deps/managing_growing_projects_with_packages_crates_and_modules-31dac8c29ccee6ff.d: src/main.rs
+
+src/main.rs:
